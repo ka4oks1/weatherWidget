@@ -18,8 +18,8 @@ DEFINES += QT_DEPRECATED_WARNINGS
 SOURCES += \
     custexep.cpp \
     datatime.cpp \
-    main.cpp \
-    mainwindow.cpp \
+    mains/main.cpp \
+    mains/mainwindow.cpp \
     weatherinfo.cpp
 
 HEADERS += \
